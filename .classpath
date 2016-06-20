@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Programowanie/o2Breaker/Libsy/httpclient-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Programowanie/o2Breaker/Libsy/httpcore-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Programowanie/o2Breaker/Libsy/apache-httpcomponents-httpclient.jar"/>
+	<classpathentry kind="lib" path="D:/Programowanie/o2Breaker/Libsy/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Programowanie/o2Breaker/Libsy/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programowanie/o2Breaker/Libsy/fluent-hc-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Programowanie/o2Breaker/Libsy/httpclient-cache-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Programowanie/o2Breaker/Libsy/httpclient-win-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Programowanie/o2Breaker/Libsy/httpmime-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Programowanie/o2Breaker/Libsy/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Programowanie/o2Breaker/Libsy/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Programowanie/o2Breaker/Libsy/jodd-3.6.4.jar"/>
+	<classpathentry kind="lib" path="D:/Programowanie/o2Breaker/Libsy/jodd-3.6.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Programowanie/o2Breaker/Libsy/jodd-joy-3.6.4.jar"/>
+	<classpathentry kind="lib" path="D:/Programowanie/o2Breaker/Libsy/jodd-joy-3.6.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Programowanie/o2Breaker/Libsy/jodd-mobile-3.6.4.jar"/>
+	<classpathentry kind="lib" path="D:/Programowanie/o2Breaker/Libsy/jodd-swingspy-3.6.4.jar"/>
+	<classpathentry kind="lib" path="D:/Programowanie/o2Breaker/Libsy/jodd-swingspy-3.6.4-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
